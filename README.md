@@ -45,3 +45,5 @@ Congratulations on passing this project! 🎉 You've done an excellent job. To f
 2. **Using f-strings:** Explore the new and improved f-string formatting functionalities in Python.
 
 Feel free to revisit the project anytime and keep up the great work! :udacious:
+
+confirm.udacity.com/e/85afd4d0-6c23-11ee-a521-735df0b7fb4d
